@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "gapi-script": "^1.2.0",
+    "react-scripts": "^5.0.1"
+  },
+    "scripts": {
+      "build": "react-scripts build ",
+      "Homepage":"./client/public"
+    }
+}
